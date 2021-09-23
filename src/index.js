@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const fruits = {
   apple: 1,
   mango: 1,
